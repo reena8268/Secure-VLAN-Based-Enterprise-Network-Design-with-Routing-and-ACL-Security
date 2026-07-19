@@ -66,4 +66,4 @@ README.md
 - High Availability with redundant routers and switches
 
 ## 👩‍💻 Author
-**Reena Prabakaran**
+**Reena KP**
